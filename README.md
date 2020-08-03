@@ -6,8 +6,8 @@ I'm a software engineer :robot:
 Sou brasileiro, moro no Brasil | 
 I am Brazilian, I live in Brazil. 🇧🇷
 
-Atualmente, trabalho na ![iDtrust](https://www.idtrust.com.br/) | 
-I currently work at iDtrust ![iDtrust](https://www.idtrust.com.br/) :man_technologist:
+Atualmente, trabalho na [iDtrust](http://www.idtrust.com.br/) | 
+I currently work at iDtrust [iDtrust](http://www.idtrust.com.br/) :man_technologist:
 
 ### Você também pode me encontrar aqui: | You can also find me here: :arrow_lower_left:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paluan-dev666)](https://github.com/paluan-dev666)
