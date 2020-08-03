@@ -1,6 +1,6 @@
 ### Olá, meu nome é Paluan Batista! 👋 Hello, my name is Paluan Batista! 👋
 Sou Desenvolvedor Junior | 
-I'm a software engineer :robot:
+I'm a software developer :robot:
 
 
 Sou brasileiro, moro no Brasil | 
@@ -17,16 +17,3 @@ I currently work at iDtrust [iDtrust](http://www.idtrust.com.br/) :man_technolog
 
 ### Obrigado pela visita.
 ### Thanks for visiting.
-
-<!--
-**paluan-dev666/paluan-dev666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Sou Desenvolvedor Junior.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
