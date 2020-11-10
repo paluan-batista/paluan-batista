@@ -7,7 +7,7 @@ Sou brasileiro, moro no Brasil |
 I am Brazilian, I live in Brazil. 🇧🇷
 
 Atualmente, trabalho na [Monitora Soluções Tecnológicas](https://www.monitoratec.com.br/) | 
-I currently work at iDtrust [Monitora Soluções Tecnológicas](https://www.monitoratec.com.br/) :man_technologist:
+I currently work at [Monitora Soluções Tecnológicas](https://www.monitoratec.com.br/) :man_technologist:
 
 ### Você também pode me encontrar aqui: | You can also find me here: :arrow_lower_left:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paluan-dev666)](https://github.com/paluan-dev666)
