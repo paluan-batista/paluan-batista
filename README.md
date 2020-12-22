@@ -1,6 +1,6 @@
 ### Olá, meu nome é Paluan Batista! 👋 Hello, my name is Paluan Batista! 👋
-Sou Desenvolvedor Junior | 
-I'm a software developer :robot:
+Sou Desenvolvedor Fullstack | 
+I'm a Fullstack Developer :robot:
 
 
 Sou brasileiro, moro no Brasil | 
