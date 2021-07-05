@@ -6,6 +6,17 @@ I'm a Backend Developer Sr :robot:
 Sou brasileiro, moro no Brasil | 
 I am Brazilian, I live in Brazil. 🇧🇷
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paluan-batista" alt="Paluan Batista" /> </p>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&layout=compact&show_icons=true&hide_border=true"
+    />
+  </a>
+</p>
+
 Atualmente, trabalho na [Invillia](https://invillia.com/global-growth-framework/) | 
 I currently work at [Invillia](https://invillia.com/global-growth-framework/) :man_technologist:
 
