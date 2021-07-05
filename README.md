@@ -1,13 +1,13 @@
 ### Olá, meu nome é Paluan Batista! 👋 Hello, my name is Paluan Batista! 👋
-Sou Desenvolvedor Fullstack | 
-I'm a Fullstack Developer :robot:
+Sou Backend Developer Sr | 
+I'm a Backend Developer Sr :robot:
 
 
 Sou brasileiro, moro no Brasil | 
 I am Brazilian, I live in Brazil. 🇧🇷
 
-Atualmente, trabalho na [Monitora Soluções Tecnológicas](https://www.monitoratec.com.br/) | 
-I currently work at [Monitora Soluções Tecnológicas](https://www.monitoratec.com.br/) :man_technologist:
+Atualmente, trabalho na [Invillia](https://invillia.com/global-growth-framework/) | 
+I currently work at [Invillia](https://invillia.com/global-growth-framework/) :man_technologist:
 
 ### Você também pode me encontrar aqui: | You can also find me here: :arrow_lower_left:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paluan-dev666)](https://github.com/paluan-dev666)
