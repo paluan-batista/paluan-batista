@@ -40,7 +40,7 @@ I currently work at [Invillia](https://invillia.com/global-growth-framework/) :m
 <br><br><br>
 
 
-<br><br><br>[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&theme=blue-green)](https://github.com/paluan-batista/github-readme-stats)
+<br><br><br><br>[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&theme=blue-green)](https://github.com/paluan-batista/github-readme-stats)
 
 
 
