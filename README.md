@@ -6,7 +6,7 @@ I'm a Backend Developer Sr :robot:
 
 I am Brazilian, I live in Brazil. 🇧🇷
 
-I currently work at [Invillia](https://invillia.com/global-growth-framework/) :man_technologist:
+I currently work at [Invillia | iFood](https://invillia.com/global-growth-framework/) :man_technologist:
 
 
 #### Technologies I work with:
