@@ -4,7 +4,7 @@
 
 I'm a Sr Software Engineer :robot:
 
-I am Brazilian, I live in Brazil. 🇧🇷
+I am Brazilian,live in Brazil. 🇧🇷
 
 I currently work at [iFood](https://www.ifood.com.br/) :man_technologist:
 
