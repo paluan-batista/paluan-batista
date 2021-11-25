@@ -40,8 +40,7 @@ I currently work at [iFood](https://www.ifood.com.br/) :man_technologist:
 </div>
 
 
-<br><br>[![Naereen's top languages]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&theme=blue-black)](https://github.com/paluan-batista/github-readme-stats)
+<br><br>[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&theme=blue-black)](https://github.com/paluan-batista/github-readme-stats)
 
 
 ### You can also find me here: :arrow_lower_left:
