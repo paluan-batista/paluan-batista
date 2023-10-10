@@ -12,7 +12,6 @@ I currently work at [Picpay](https://www.picpay.com/site) :man_technologist:
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=paluan-batista&theme=buefy"/></td>
     </tr>   
 </table>
 </center> 
