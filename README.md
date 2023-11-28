@@ -6,7 +6,6 @@ I'm a Sr Software Engineer :robot:
 
 I am Brazilian, live in Brazil. 🇧🇷
 
-I currently work at [Picpay](https://www.picpay.com/site) :man_technologist:
 
 <center>
 <table>
