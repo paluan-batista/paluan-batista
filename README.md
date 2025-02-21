@@ -10,7 +10,7 @@ I am Brazilian, live in Brazil. 🇧🇷
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/></td>    
     </tr>   
 </table>
 </center> 
